@@ -1,2 +1,4 @@
 __pycache__
 .env
+AGENTS.md
+uv.lock
